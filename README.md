@@ -20,7 +20,7 @@ Currently building **Lattice**, a post-quantum cryptography risk-intelligence pl
 | **[FraudShieldAI](https://github.com/sanju-zxt/FraudShieldAI)** | Real-time fraud detection mobile app: flags suspicious transactions on-device with risk explanations, backed by Node microservices | TypeScript, ML, Node.js | — |
 | **[portfolio](https://github.com/sanju-zxt/portfolio)** | This site's source: particle effects, custom cursor, certifications vault, blog | HTML, CSS, JS | [sanju-zxt.github.io/portfolio](https://sanju-zxt.github.io/portfolio) |
 
-More on my GitHub: multilingual vision AI ([BharatLensAI](https://github.com/sanju-zxt/BharatLensAI)), OSINT intelligence platform ([shadownet-lite](https://github.com/sanju-zxt/shadownet-lite)), accessibility haptics ([sentinel-prototype](https://github.com/sanju-zxt/sentinel-prototype)).
+More on my GitHub: multilingual vision AI ([BharatLensAI](https://github.com/sanju-zxt/BharatLensAI)), OSINT intelligence platform ([shadownet-lite](https://github.com/sanju-zxt/shadownet-lite)), street vendor discovery ([Street-Connect](https://github.com/sanju-zxt/Street-Connect), team project), accessibility haptics ([sentinel-prototype](https://github.com/sanju-zxt/sentinel-prototype)).
 
 ---
 
