@@ -50,4 +50,4 @@ Part-time / contract / freelance remote roles — weekday evenings and weekends 
 
 **Email:** [ssanju200610@gmail.com](mailto:ssanju200610@gmail.com)
 **Portfolio:** [sanju-zxt.github.io/portfolio](https://sanju-zxt.github.io/portfolio)
-**LinkedIn:** [lohtih-sanju-p-b1b839300](https://www.linkedin.com/in/lohtih-sanju-p-b1b839300)
+**LinkedIn:** [lohith-sanju-p](https://www.linkedin.com/in/lohith-sanju-p)
