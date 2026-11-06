@@ -1,10 +1,12 @@
 # Lohith Sanju P
 
-**Full Stack Developer (React, Node.js, Python) — Available for Part-Time Remote Contract Work**
+**AWS Student Builder Group Leader · Full Stack Developer (React, Node.js, Python) — Available for Part-Time Remote Contract Work**
 
 3rd year BE CSE (Data Science) at VVIT, Bengaluru. I build and ship production web, mobile and AI apps — not demos. Fluent with AI-assisted development; fast on new stacks.
 
-Currently building **Lattice**, a post-quantum cryptography risk-intelligence platform ([live](https://lattice-black.vercel.app)) — Round-1 selection at Q-Hack India 2026 (Devfolio).
+**AWS Student Builder Group Leader** (Nov 2026 – present). I lead the student AWS developer community at Vijaya Vittala Institute of Technology — hands-on cloud workshops, certification prep and project sprints — with a Core Team of student organisers I build and mentor. Part of a global community of student leaders across 68+ countries.
+
+Recently shipped **Lattice**, a post-quantum cryptography risk-intelligence platform ([live](https://lattice-black.vercel.app)).
 
 ---
 
@@ -29,13 +31,15 @@ More on my GitHub: multilingual vision AI ([BharatLensAI](https://github.com/san
 - **Languages:** Python, JavaScript, TypeScript, C, Dart
 - **Frontend:** React, React Native, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express, FastAPI, MongoDB, PostgreSQL, REST APIs
-- **Mobile & Cloud:** Flutter, Firebase (Auth/Firestore/FCM), Android Studio, Render, Vercel
+- **Mobile & Cloud:** Flutter, Firebase (Auth/Firestore/FCM), Android Studio, AWS (cloud fundamentals), Render, Vercel
 - **AI & Tools:** Gemini API, AI-assisted development, Qiskit, Git/GitHub, DSA
+- **Community & Leadership:** community building, mentoring, event management, public speaking, technical writing
 
 ---
 
 ## Beyond code
 
+- **AWS Student Builder Group Leader** (Nov 2026 – present) — founding and leading the AWS student developer community at VVIT: Core Team building, six-plus technical events a year, certification-prep sessions, AWS Builder Center contributor
 - Organizer, **IGNITE 2026** — 4-week product-prototyping sprint with industry partners
 - **2nd place**, Sai Taranga 2025 national-level conference (research paper presentation)
 - Full Stack Development Intern at **Skyforger Technologies** (Feb–Apr 2026)
